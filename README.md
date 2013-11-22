@@ -10,6 +10,7 @@ jQuery add/remove multiple CSS classes
 Example:
 
 Add multiple classes and remove multiple classes:
+
 $("#selector").classer("class1 class2", "class3,class4");
 
 
